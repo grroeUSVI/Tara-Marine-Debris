@@ -1,0 +1,578 @@
+island,site,month,year,cleanup.type,people,lbs,item,Source,num.of.item,meters
+STT,STEER,4,2018,mangrove,126,3022,Buoys/Floats/Boat parts,ocean,56,2414
+STT,STEER,4,2018,mangrove,126,3022,Caps (Metal & Plastic Combined),land,96,2414
+STT,STEER,4,2018,mangrove,126,3022,Car Parts,land,1,2414
+STT,STEER,4,2018,mangrove,126,3022,Clothes,land,94,2414
+STT,STEER,4,2018,mangrove,126,3022,Construction Materials,land,319,2414
+STT,STEER,4,2018,mangrove,126,3022,Fishing Line,ocean,299,2414
+STT,STEER,4,2018,mangrove,126,3022,Fishing Materials (other),ocean,1,2414
+STT,STEER,4,2018,mangrove,126,3022,Foam Pieces,land,585,2414
+STT,STEER,4,2018,mangrove,126,3022,"Food Wrappers (candy, chips, etc.)",land,181,2414
+STT,STEER,4,2018,mangrove,126,3022,Glass Beverage Bottles,land,307,2414
+STT,STEER,4,2018,mangrove,126,3022,Glass Pieces,land,12,2414
+STT,STEER,4,2018,mangrove,126,3022,Light Bulbs,land,2,2414
+STT,STEER,4,2018,mangrove,126,3022,Lighters,land,6,2414
+STT,STEER,4,2018,mangrove,126,3022,Metal Beverage Cans,land,464,2414
+STT,STEER,4,2018,mangrove,126,3022,Metal Pieces,land,138,2414
+STT,STEER,4,2018,mangrove,126,3022,Oil/Lube Bottles,land,47,2414
+STT,STEER,4,2018,mangrove,126,3022,Other,other,78,2414
+STT,STEER,4,2018,mangrove,126,3022,"Paper (Bags, Pieces)",land,15,2414
+STT,STEER,4,2018,mangrove,126,3022,"Paper Food Containers/Utinsels (plates, cups, lids, etc.)",land,21,2414
+STT,STEER,4,2018,mangrove,126,3022,Personal Hygiene,land,9,2414
+STT,STEER,4,2018,mangrove,126,3022,Plastic Bags (grocery),land,328,2414
+STT,STEER,4,2018,mangrove,126,3022,Plastic Beverage Bottles,land,1765,2414
+STT,STEER,4,2018,mangrove,126,3022,Plastic Bottles (non-drinking),land,527,2414
+STT,STEER,4,2018,mangrove,126,3022,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,476,2414
+STT,STEER,4,2018,mangrove,126,3022,Plastic Pieces,land,1000,2414
+STT,STEER,4,2018,mangrove,126,3022,Plastic Sheets/Tarps,land,8,2414
+STT,STEER,4,2018,mangrove,126,3022,Shoes,land,55,2414
+STT,STEER,4,2018,mangrove,126,3022,Straws,land,1,2414
+STT,STEER,4,2018,mangrove,126,3022,Tires,land,34,2414
+STT,STEER,4,2018,mangrove,126,3022,Toys,land,33,2414
+STT,STEER,4,2019,mangrove,115,1786,"Appliances (Fridges, Washers, etc)",land,7,2414
+STT,STEER,4,2019,mangrove,115,1786,Batteries,land,1,2414
+STT,STEER,4,2019,mangrove,115,1786,Buoys/Floats/Boat parts,ocean,70,2414
+STT,STEER,4,2019,mangrove,115,1786,Caps (Metal & Plastic Combined),land,68,2414
+STT,STEER,4,2019,mangrove,115,1786,Cigar Tips,land,6,2414
+STT,STEER,4,2019,mangrove,115,1786,Cigarette Butts,land,65,2414
+STT,STEER,4,2019,mangrove,115,1786,Clothes,land,33,2414
+STT,STEER,4,2019,mangrove,115,1786,Construction Materials,land,110,2414
+STT,STEER,4,2019,mangrove,115,1786,Fireworks,land,1,2414
+STT,STEER,4,2019,mangrove,115,1786,Fishing Line,ocean,79,2414
+STT,STEER,4,2019,mangrove,115,1786,Fishing Materials (other),ocean,12,2414
+STT,STEER,4,2019,mangrove,115,1786,"Foam Food Containers/Utinsels (plates, cups, lids, etc.)",land,30,2414
+STT,STEER,4,2019,mangrove,115,1786,Foam Pieces,land,24,2414
+STT,STEER,4,2019,mangrove,115,1786,"Food Wrappers (candy, chips, etc.)",land,50,2414
+STT,STEER,4,2019,mangrove,115,1786,Glass Beverage Bottles,land,111,2414
+STT,STEER,4,2019,mangrove,115,1786,Glass Pieces,land,19,2414
+STT,STEER,4,2019,mangrove,115,1786,Lighters,land,10,2414
+STT,STEER,4,2019,mangrove,115,1786,Metal Beverage Cans,land,82,2414
+STT,STEER,4,2019,mangrove,115,1786,Other,other,4,2414
+STT,STEER,4,2019,mangrove,115,1786,Other Non-Food Wrappers & Packaging,land,83,2414
+STT,STEER,4,2019,mangrove,115,1786,"Paper (Bags, Pieces)",land,15,2414
+STT,STEER,4,2019,mangrove,115,1786,"Paper Food Containers/Utinsels (plates, cups, lids, etc.)",land,7,2414
+STT,STEER,4,2019,mangrove,115,1786,Personal Hygiene,land,2,2414
+STT,STEER,4,2019,mangrove,115,1786,Plastic Bags (grocery),land,92,2414
+STT,STEER,4,2019,mangrove,115,1786,Plastic Bags (other),land,89,2414
+STT,STEER,4,2019,mangrove,115,1786,Plastic Beverage Bottles,land,246,2414
+STT,STEER,4,2019,mangrove,115,1786,Plastic Bottles (non-drinking),land,114,2414
+STT,STEER,4,2019,mangrove,115,1786,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,163,2414
+STT,STEER,4,2019,mangrove,115,1786,Plastic Pieces,land,163,2414
+STT,STEER,4,2019,mangrove,115,1786,Six Pack Holders,land,2,2414
+STT,STEER,4,2019,mangrove,115,1786,Straws,land,13,2414
+STT,STEER,4,2019,mangrove,115,1786,Tires,land,11,2414
+STX,Salt River,2,2020,mangrove,82,880,"Appliances (Fridges, Washers, etc)",land,11,2897
+STX,Salt River,2,2020,mangrove,82,880,Balloons,land,1,2897
+STX,Salt River,2,2020,mangrove,82,880,Batteries,land,2,2897
+STX,Salt River,2,2020,mangrove,82,880,Caps (Metal & Plastic Combined),land,153,2897
+STX,Salt River,2,2020,mangrove,82,880,Caps (Metal & Plastic Combined),land,157,2897
+STX,Salt River,2,2020,mangrove,82,880,Cigar Tips,land,1,2897
+STX,Salt River,2,2020,mangrove,82,880,Cigarette Butts,land,91,2897
+STX,Salt River,2,2020,mangrove,82,880,Clothes,land,30,2897
+STX,Salt River,2,2020,mangrove,82,880,Condoms,land,32,2897
+STX,Salt River,2,2020,mangrove,82,880,Construction Materials,land,96,2897
+STX,Salt River,2,2020,mangrove,82,880,Diapers,land,4,2897
+STX,Salt River,2,2020,mangrove,82,880,Fish Traps,ocean,16,2897
+STX,Salt River,2,2020,mangrove,82,880,Fishing Line,ocean,119.3,2897
+STX,Salt River,2,2020,mangrove,82,880,Fishing Line,ocean,219,2897
+STX,Salt River,2,2020,mangrove,82,880,Fishing Materials (other),ocean,58,2897
+STX,Salt River,2,2020,mangrove,82,880,"Foam Food Containers/Utinsels (plates, cups, lids, etc.)",land,79,2897
+STX,Salt River,2,2020,mangrove,82,880,Foam Pieces,land,77,2897
+STX,Salt River,2,2020,mangrove,82,880,"Food Wrappers (candy, chips, etc.)",land,161,2897
+STX,Salt River,2,2020,mangrove,82,880,Glass Beverage Bottles,land,355,2897
+STX,Salt River,2,2020,mangrove,82,880,Glass Pieces,land,183,2897
+STX,Salt River,2,2020,mangrove,82,880,Lighters,land,8,2897
+STX,Salt River,2,2020,mangrove,82,880,Metal Beverage Cans,land,311,2897
+STX,Salt River,2,2020,mangrove,82,880,Metal Pieces,land,7,2897
+STX,Salt River,2,2020,mangrove,82,880,Other,other,80,2897
+STX,Salt River,2,2020,mangrove,82,880,Other Non-Food Wrappers & Packaging,land,138,2897
+STX,Salt River,2,2020,mangrove,82,880,"Paper (Bags, Pieces)",land,72,2897
+STX,Salt River,2,2020,mangrove,82,880,"Paper Food Containers/Utinsels (plates, cups, lids, etc.)",land,21,2897
+STX,Salt River,2,2020,mangrove,82,880,Personal Hygiene,land,3,2897
+STX,Salt River,2,2020,mangrove,82,880,Plastic Bags (grocery),land,51,2897
+STX,Salt River,2,2020,mangrove,82,880,Plastic Bags (other),land,63,2897
+STX,Salt River,2,2020,mangrove,82,880,Plastic Beverage Bottles,land,291,2897
+STX,Salt River,2,2020,mangrove,82,880,Plastic Bottles (non-drinking),land,42,2897
+STX,Salt River,2,2020,mangrove,82,880,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,159,2897
+STX,Salt River,2,2020,mangrove,82,880,Plastic Pieces,land,291,2897
+STX,Salt River,2,2020,mangrove,82,880,Shoes,land,13,2897
+STX,Salt River,2,2020,mangrove,82,880,Six Pack Holders,land,12,2897
+STX,Salt River,2,2020,mangrove,82,880,Straws,land,35,2897
+STX,Salt River,2,2020,mangrove,82,880,Tires,land,5,2897
+STJ,Coral Bay,7,2021,mangrove,29,3440,"Appliances (Fridges, Washers, etc)",land,3,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Balloons,land,1,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Caps (Metal & Plastic Combined),land,104,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Cigarette Butts,land,32,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Construction Materials,land,461,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Fish Traps,ocean,36,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Fishing Line,ocean,83,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Fishing Materials (other),ocean,26,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,"Foam Food Containers/Utinsels (plates, cups, lids, etc.)",land,36,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Foam Pieces,land,303,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,"Food Wrappers (candy, chips, etc.)",land,120,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Glass Beverage Bottles,land,354,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Glass Pieces,land,57,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Lighters,land,8,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Metal Beverage Cans,land,236,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Other,other,440,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Other Non-Food Wrappers & Packaging,land,228,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,"Paper (Bags, Pieces)",land,5,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,"Paper Food Containers/Utinsels (plates, cups, lids, etc.)",land,3,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Personal Hygiene,land,7,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Plastic Bags (grocery),land,96,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Plastic Bags (other),land,112,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Plastic Beverage Bottles,land,484,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Plastic Bottles (non-drinking),land,112,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,227,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Plastic Pieces,land,579,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Shoes,land,23,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Straws,land,7,403
+STJ,Coral Bay,7,2021,mangrove,29,3440,Tires,land,9,403
+STT,Vessup,4,2021,mangrove,54,1707,"Appliances (Fridges, Washers, etc)",land,3,805
+STT,Vessup,4,2021,mangrove,54,1707,Caps (Metal & Plastic Combined),land,114,805
+STT,Vessup,4,2021,mangrove,54,1707,Cigarette Butts,land,1,805
+STT,Vessup,4,2021,mangrove,54,1707,Construction Materials,land,113,805
+STT,Vessup,4,2021,mangrove,54,1707,Fish Traps,ocean,21,805
+STT,Vessup,4,2021,mangrove,54,1707,Fishing Line,ocean,22,805
+STT,Vessup,4,2021,mangrove,54,1707,Fishing Materials (other),ocean,5,805
+STT,Vessup,4,2021,mangrove,54,1707,"Foam Food Containers/Utinsels (plates, cups, lids, etc.)",land,53,805
+STT,Vessup,4,2021,mangrove,54,1707,Foam Pieces,land,45,805
+STT,Vessup,4,2021,mangrove,54,1707,"Food Wrappers (candy, chips, etc.)",land,25,805
+STT,Vessup,4,2021,mangrove,54,1707,Glass Beverage Bottles,land,240,805
+STT,Vessup,4,2021,mangrove,54,1707,Glass Pieces,land,22,805
+STT,Vessup,4,2021,mangrove,54,1707,Lighters,land,23,805
+STT,Vessup,4,2021,mangrove,54,1707,Metal Beverage Cans,land,257,805
+STT,Vessup,4,2021,mangrove,54,1707,Other,other,147,805
+STT,Vessup,4,2021,mangrove,54,1707,Other Non-Food Wrappers & Packaging,land,117,805
+STT,Vessup,4,2021,mangrove,54,1707,"Paper (Bags, Pieces)",land,11,805
+STT,Vessup,4,2021,mangrove,54,1707,"Paper Food Containers/Utinsels (plates, cups, lids, etc.)",land,24,805
+STT,Vessup,4,2021,mangrove,54,1707,Plastic Bags (grocery),land,35,805
+STT,Vessup,4,2021,mangrove,54,1707,Plastic Bags (other),land,61,805
+STT,Vessup,4,2021,mangrove,54,1707,Plastic Beverage Bottles,land,1129,805
+STT,Vessup,4,2021,mangrove,54,1707,Plastic Bottles (non-drinking),land,129,805
+STT,Vessup,4,2021,mangrove,54,1707,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,136,805
+STT,Vessup,4,2021,mangrove,54,1707,Plastic Pieces,land,181,805
+STT,Vessup,4,2021,mangrove,54,1707,Shoes,land,65,805
+STT,Vessup,4,2021,mangrove,54,1707,Six Pack Holders,land,1,805
+STT,Vessup,4,2021,mangrove,54,1707,Straws,land,5,805
+STT,Vessup,4,2021,mangrove,54,1707,Tires,land,2,805
+STJ,Coral Bay,5,2022,mangrove,27,3589,"Appliances (Fridges, Washers, etc)",land,6,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Balloons,land,1,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Caps (Metal & Plastic Combined),land,146,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Cigar Tips,land,3,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Cigarette Butts,land,10,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Condoms,land,1,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Construction Materials,land,238,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Fish Traps,ocean,38,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Fishing Line,ocean,182,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Fishing Materials (other),ocean,61,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,"Foam Food Containers/Utinsels (plates, cups, lids, etc.)",land,8,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Foam Pieces,land,63,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,"Food Wrappers (candy, chips, etc.)",land,137,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Glass Beverage Bottles,land,407,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Glass Pieces,land,89,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Lighters,land,11,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Metal Beverage Cans,land,173,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Other,other,32,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Other Non-Food Wrappers & Packaging,land,121,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,"Paper Food Containers/Utinsels (plates, cups, lids, etc.)",land,27,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Personal Hygiene,land,1,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Plastic Bags (grocery),land,70,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Plastic Bags (other),land,196,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Plastic Beverage Bottles,land,238,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Plastic Bottles (non-drinking),land,93,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,121,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Plastic Pieces,land,474,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Shoes,land,17,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Six Pack Holders,land,2,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Straws,land,5,403
+STJ,Coral Bay,5,2022,mangrove,27,3589,Tires,land,4,403
+STX,Salt River,6,2022,mangrove,42,1098,"Appliances (Fridges, Washers, etc)",land,3,2897
+STX,Salt River,6,2022,mangrove,42,1098,Caps (Metal & Plastic Combined),land,118,2897
+STX,Salt River,6,2022,mangrove,42,1098,Cigar Tips,land,3,2897
+STX,Salt River,6,2022,mangrove,42,1098,Cigarette Butts,land,23,2897
+STX,Salt River,6,2022,mangrove,42,1098,Condoms,land,2,2897
+STX,Salt River,6,2022,mangrove,42,1098,Construction Materials,land,56,2897
+STX,Salt River,6,2022,mangrove,42,1098,Fish Traps,ocean,12,2897
+STX,Salt River,6,2022,mangrove,42,1098,Fishing Line,ocean,146,2897
+STX,Salt River,6,2022,mangrove,42,1098,Fishing Materials (other),ocean,29,2897
+STX,Salt River,6,2022,mangrove,42,1098,"Foam Food Containers/Utinsels (plates, cups, lids, etc.)",land,57,2897
+STX,Salt River,6,2022,mangrove,42,1098,Foam Pieces,land,52,2897
+STX,Salt River,6,2022,mangrove,42,1098,"Food Wrappers (candy, chips, etc.)",land,163,2897
+STX,Salt River,6,2022,mangrove,42,1098,Glass Beverage Bottles,land,301,2897
+STX,Salt River,6,2022,mangrove,42,1098,Glass Pieces,land,55,2897
+STX,Salt River,6,2022,mangrove,42,1098,Lighters,land,9,2897
+STX,Salt River,6,2022,mangrove,42,1098,Metal Beverage Cans,land,252,2897
+STX,Salt River,6,2022,mangrove,42,1098,Other,other,139,2897
+STX,Salt River,6,2022,mangrove,42,1098,Other Non-Food Wrappers & Packaging,land,96,2897
+STX,Salt River,6,2022,mangrove,42,1098,"Paper (Bags, Pieces)",land,19,2897
+STX,Salt River,6,2022,mangrove,42,1098,"Paper Food Containers/Utinsels (plates, cups, lids, etc.)",land,9,2897
+STX,Salt River,6,2022,mangrove,42,1098,Plastic Bags (grocery),land,64,2897
+STX,Salt River,6,2022,mangrove,42,1098,Plastic Bags (other),land,81,2897
+STX,Salt River,6,2022,mangrove,42,1098,Plastic Beverage Bottles,land,241,2897
+STX,Salt River,6,2022,mangrove,42,1098,Plastic Bottles (non-drinking),land,21,2897
+STX,Salt River,6,2022,mangrove,42,1098,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,93,2897
+STX,Salt River,6,2022,mangrove,42,1098,Plastic Pieces,land,299,2897
+STX,Salt River,6,2022,mangrove,42,1098,Shoes,land,18,2897
+STX,Salt River,6,2022,mangrove,42,1098,Six Pack Holders,land,2,2897
+STX,Salt River,6,2022,mangrove,42,1098,Straws,land,8,2897
+STX,Salt River,6,2022,mangrove,42,1098,Tires,land,13,2897
+STT,Vessup,4,2022,mangrove,97,4450,"Appliances (Fridges, Washers, etc)",land,1,805
+STT,Vessup,4,2022,mangrove,97,4450,Balloons,land,7,805
+STT,Vessup,4,2022,mangrove,97,4450,Caps (Metal & Plastic Combined),land,520,805
+STT,Vessup,4,2022,mangrove,97,4450,Cigar Tips,land,1,805
+STT,Vessup,4,2022,mangrove,97,4450,Cigarette Butts,land,32,805
+STT,Vessup,4,2022,mangrove,97,4450,Condoms,land,1,805
+STT,Vessup,4,2022,mangrove,97,4450,Construction Materials,land,160,805
+STT,Vessup,4,2022,mangrove,97,4450,Diapers,land,2,805
+STT,Vessup,4,2022,mangrove,97,4450,Fish Traps,ocean,79,805
+STT,Vessup,4,2022,mangrove,97,4450,Fishing Line,ocean,159,805
+STT,Vessup,4,2022,mangrove,97,4450,Fishing Materials (other),ocean,22,805
+STT,Vessup,4,2022,mangrove,97,4450,"Foam Food Containers/Utinsels (plates, cups, lids, etc.)",land,60,805
+STT,Vessup,4,2022,mangrove,97,4450,Foam Pieces,land,235,805
+STT,Vessup,4,2022,mangrove,97,4450,"Food Wrappers (candy, chips, etc.)",land,148,805
+STT,Vessup,4,2022,mangrove,97,4450,Glass Beverage Bottles,land,449,805
+STT,Vessup,4,2022,mangrove,97,4450,Glass Pieces,land,55,805
+STT,Vessup,4,2022,mangrove,97,4450,Lighters,land,155,805
+STT,Vessup,4,2022,mangrove,97,4450,Metal Beverage Cans,land,362,805
+STT,Vessup,4,2022,mangrove,97,4450,Other,other,16,805
+STT,Vessup,4,2022,mangrove,97,4450,Other Non-Food Wrappers & Packaging,land,375,805
+STT,Vessup,4,2022,mangrove,97,4450,"Paper (Bags, Pieces)",land,11,805
+STT,Vessup,4,2022,mangrove,97,4450,"Paper Food Containers/Utinsels (plates, cups, lids, etc.)",land,11,805
+STT,Vessup,4,2022,mangrove,97,4450,Personal Hygiene,land,1,805
+STT,Vessup,4,2022,mangrove,97,4450,Plastic Bags (grocery),land,100,805
+STT,Vessup,4,2022,mangrove,97,4450,Plastic Bags (other),land,255,805
+STT,Vessup,4,2022,mangrove,97,4450,Plastic Beverage Bottles,land,1189,805
+STT,Vessup,4,2022,mangrove,97,4450,Plastic Bottles (non-drinking),land,272,805
+STT,Vessup,4,2022,mangrove,97,4450,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,364,805
+STT,Vessup,4,2022,mangrove,97,4450,Plastic Pieces,land,1078,805
+STT,Vessup,4,2022,mangrove,97,4450,Shoes,land,219,805
+STT,Vessup,4,2022,mangrove,97,4450,Six Pack Holders,land,5,805
+STT,Vessup,4,2022,mangrove,97,4450,Straws,land,176,805
+STT,Vessup,4,2022,mangrove,97,4450,Syringes,land,2,805
+STT,Vessup,4,2022,mangrove,97,4450,Tires,land,3,805
+STX,Altona,3,2023,mangrove,27,1699,Balloons,land,2,
+STX,Altona,3,2023,mangrove,27,1699,Buoys/Floats/Boat parts,ocean,3,
+STX,Altona,3,2023,mangrove,27,1699,Caps (Metal & Plastic Combined),land,33,
+STX,Altona,3,2023,mangrove,27,1699,Caps (Metal & Plastic Combined),land,142,
+STX,Altona,3,2023,mangrove,27,1699,Cigar Tips,land,5,
+STX,Altona,3,2023,mangrove,27,1699,Cigarette Butts,land,2,
+STX,Altona,3,2023,mangrove,27,1699,Clothes,land,28,
+STX,Altona,3,2023,mangrove,27,1699,Condoms,land,6,
+STX,Altona,3,2023,mangrove,27,1699,Construction Materials,land,82,
+STX,Altona,3,2023,mangrove,27,1699,Diapers,land,5,
+STX,Altona,3,2023,mangrove,27,1699,Fishing Line,ocean,1,
+STX,Altona,3,2023,mangrove,27,1699,Fishing Line,ocean,5,
+STX,Altona,3,2023,mangrove,27,1699,Fishing Materials (other),ocean,2,
+STX,Altona,3,2023,mangrove,27,1699,"Foam Food Containers/Utinsels (plates, cups, lids, etc.)",land,84,
+STX,Altona,3,2023,mangrove,27,1699,Foam Pieces,land,116,
+STX,Altona,3,2023,mangrove,27,1699,"Food Wrappers (candy, chips, etc.)",land,249,
+STX,Altona,3,2023,mangrove,27,1699,Glass Beverage Bottles,land,401,
+STX,Altona,3,2023,mangrove,27,1699,Glass Pieces,land,152,
+STX,Altona,3,2023,mangrove,27,1699,Lighters,land,30,
+STX,Altona,3,2023,mangrove,27,1699,Metal Beverage Cans,land,221,
+STX,Altona,3,2023,mangrove,27,1699,Metal Pieces,land,43,
+STX,Altona,3,2023,mangrove,27,1699,Other,other,78,
+STX,Altona,3,2023,mangrove,27,1699,Other Non-Food Wrappers & Packaging,land,76,
+STX,Altona,3,2023,mangrove,27,1699,"Paper (Bags, Pieces)",land,37,
+STX,Altona,3,2023,mangrove,27,1699,"Paper Food Containers/Utinsels (plates, cups, lids, etc.)",land,17,
+STX,Altona,3,2023,mangrove,27,1699,Personal Hygiene,land,13,
+STX,Altona,3,2023,mangrove,27,1699,Plastic Bags (grocery),land,58,
+STX,Altona,3,2023,mangrove,27,1699,Plastic Bags (other),land,83,
+STX,Altona,3,2023,mangrove,27,1699,Plastic Beverage Bottles,land,614,
+STX,Altona,3,2023,mangrove,27,1699,Plastic Bottles (non-drinking),land,23,
+STX,Altona,3,2023,mangrove,27,1699,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,250,
+STX,Altona,3,2023,mangrove,27,1699,Plastic Pieces,land,395,
+STX,Altona,3,2023,mangrove,27,1699,Shoes,land,29,
+STX,Altona,3,2023,mangrove,27,1699,Straws,land,32,
+STX,Altona,3,2023,mangrove,27,1699,Tires,land,31,
+STX,Altona,3,2023,mangrove,27,1699,Toys,land,18,
+STJ,Coral Bay,5,2023,mangrove,38,2344,"Appliances (Fridges, Washers, etc)",land,2,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Buoys/Floats/Boat parts,ocean,7,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Caps (Metal & Plastic Combined),land,30,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Caps (Metal & Plastic Combined),land,95,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Car Parts,land,2,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Cigarette Butts,land,74,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Clothes,land,23,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Construction Materials,land,214,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Fish Traps,ocean,34,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Fishing Line,ocean,40,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Fishing Line,ocean,183,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Fishing Materials (other),ocean,22,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,"Foam Food Containers/Utinsels (plates, cups, lids, etc.)",land,15,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Foam Pieces,land,166,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,"Food Wrappers (candy, chips, etc.)",land,76,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Glass Beverage Bottles,land,230,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Glass Pieces,land,106,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Lighters,land,16,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Metal Beverage Cans,land,105,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Metal Pieces,land,26,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Other,other,33,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Other Non-Food Wrappers & Packaging,land,61,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,"Paper (Bags, Pieces)",land,12,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,"Paper Food Containers/Utinsels (plates, cups, lids, etc.)",land,11,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Personal Hygiene,land,3,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Plastic Bags (grocery),land,34,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Plastic Bags (other),land,97,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Plastic Beverage Bottles,land,224,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Plastic Bottles (non-drinking),land,117,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,150,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Plastic Pieces,land,454,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Shoes,land,25,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Straws,land,9,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Syringes,land,1,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Tires,land,1,403
+STJ,Coral Bay,5,2023,mangrove,38,2344,Toys,land,4,403
+STT,Vessup,2,2023,mangrove,73,2285,"Appliances (Fridges, Washers, etc)",land,5,805
+STT,Vessup,2,2023,mangrove,73,2285,Balloons,land,3,805
+STT,Vessup,2,2023,mangrove,73,2285,Buoys/Floats/Boat parts,ocean,57,805
+STT,Vessup,2,2023,mangrove,73,2285,Caps (Metal & Plastic Combined),land,36,805
+STT,Vessup,2,2023,mangrove,73,2285,Caps (Metal & Plastic Combined),land,342,805
+STT,Vessup,2,2023,mangrove,73,2285,Car Parts,land,2,805
+STT,Vessup,2,2023,mangrove,73,2285,Cigar Tips,land,10,805
+STT,Vessup,2,2023,mangrove,73,2285,Cigarette Butts,land,5,805
+STT,Vessup,2,2023,mangrove,73,2285,Clothes,land,29,805
+STT,Vessup,2,2023,mangrove,73,2285,Condoms,land,2,805
+STT,Vessup,2,2023,mangrove,73,2285,Construction Materials,land,336,805
+STT,Vessup,2,2023,mangrove,73,2285,Fishing Line,ocean,192,805
+STT,Vessup,2,2023,mangrove,73,2285,Fishing Materials (other),ocean,67,805
+STT,Vessup,2,2023,mangrove,73,2285,"Foam Food Containers/Utinsels (plates, cups, lids, etc.)",land,69,805
+STT,Vessup,2,2023,mangrove,73,2285,Foam Pieces,land,162,805
+STT,Vessup,2,2023,mangrove,73,2285,"Food Wrappers (candy, chips, etc.)",land,128,805
+STT,Vessup,2,2023,mangrove,73,2285,Glass Beverage Bottles,land,281,805
+STT,Vessup,2,2023,mangrove,73,2285,Glass Pieces,land,63,805
+STT,Vessup,2,2023,mangrove,73,2285,Lighters,land,59,805
+STT,Vessup,2,2023,mangrove,73,2285,Metal Beverage Cans,land,116,805
+STT,Vessup,2,2023,mangrove,73,2285,Metal Pieces,land,17,805
+STT,Vessup,2,2023,mangrove,73,2285,Oil/Lube Bottles,land,1,805
+STT,Vessup,2,2023,mangrove,73,2285,Other,other,16,805
+STT,Vessup,2,2023,mangrove,73,2285,Other Non-Food Wrappers & Packaging,land,203,805
+STT,Vessup,2,2023,mangrove,73,2285,"Paper (Bags, Pieces)",land,26,805
+STT,Vessup,2,2023,mangrove,73,2285,"Paper Food Containers/Utinsels (plates, cups, lids, etc.)",land,15,805
+STT,Vessup,2,2023,mangrove,73,2285,Plastic Bags (grocery),land,56,805
+STT,Vessup,2,2023,mangrove,73,2285,Plastic Bags (other),land,188,805
+STT,Vessup,2,2023,mangrove,73,2285,Plastic Beverage Bottles,land,340,805
+STT,Vessup,2,2023,mangrove,73,2285,Plastic Bottles (non-drinking),land,67,805
+STT,Vessup,2,2023,mangrove,73,2285,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,208,805
+STT,Vessup,2,2023,mangrove,73,2285,Plastic Pieces,land,1333,805
+STT,Vessup,2,2023,mangrove,73,2285,Shoes,land,32,805
+STT,Vessup,2,2023,mangrove,73,2285,Six Pack Holders,land,9,805
+STT,Vessup,2,2023,mangrove,73,2285,Straws,land,115,805
+STT,Vessup,2,2023,mangrove,73,2285,Tires,land,6,805
+STT,Vessup,2,2023,mangrove,73,2285,Toys,land,38,805
+STX,Altona,2,2024,mangrove,29,1155,Plastic Beverage Bottles,land,319,
+STX,Altona,2,2024,mangrove,29,1155,Glass Beverage Bottles,land,274,
+STX,Altona,2,2024,mangrove,29,1155,"Food Wrappers (candy, chips, etc.)",land,334,
+STX,Altona,2,2024,mangrove,29,1155,Metal Beverage Cans,land,130,
+STX,Altona,2,2024,mangrove,29,1155,Caps (Metal & Plastic Combined),land,244,
+STX,Altona,2,2024,mangrove,29,1155,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,55,
+STX,Altona,2,2024,mangrove,29,1155,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,71,
+STX,Altona,2,2024,mangrove,29,1155,Plastic Bags (other),land,120,
+STX,Altona,2,2024,mangrove,29,1155,Other Non-Food Wrappers & Packaging,land,49,
+STX,Altona,2,2024,mangrove,29,1155,Construction Materials,land,90,
+STX,Altona,2,2024,mangrove,29,1155,Plastic Bags (grocery),land,46,
+STX,Altona,2,2024,mangrove,29,1155,"Foam Food Containers/Utinsels (plates, cups, lids, etc.)",land,31,
+STX,Altona,2,2024,mangrove,29,1155,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,81,
+STX,Altona,2,2024,mangrove,29,1155,"Foam Food Containers/Utinsels (plates, cups, lids, etc.)",land,16,
+STX,Altona,2,2024,mangrove,29,1155,Caps (Metal & Plastic Combined),land,110,
+STX,Altona,2,2024,mangrove,29,1155,Straws,land,30,
+STX,Altona,2,2024,mangrove,29,1155,Tires,land,0,
+STX,Altona,2,2024,mangrove,29,1155,Lighters,land,25,
+STX,Altona,2,2024,mangrove,29,1155,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,43,
+STX,Altona,2,2024,mangrove,29,1155,"Paper (Bags, Pieces)",land,50,
+STX,Altona,2,2024,mangrove,29,1155,Plastic Bottles (non-drinking),land,14,
+STX,Altona,2,2024,mangrove,29,1155,"Paper Food Containers/Utinsels (plates, cups, lids, etc.)",land,12,
+STX,Altona,2,2024,mangrove,29,1155,Other Non-Food Wrappers & Packaging,land,5,
+STX,Altona,2,2024,mangrove,29,1155,Condoms,land,5,
+STX,Altona,2,2024,mangrove,29,1155,Fishing Line,ocean,16,
+STX,Altona,2,2024,mangrove,29,1155,Cigar Tips,land,4,
+STX,Altona,2,2024,mangrove,29,1155,Diapers,land,5,
+STX,Altona,2,2024,mangrove,29,1155,Buoys/Floats/Boat parts,ocean,5,
+STX,Altona,2,2024,mangrove,29,1155,Cigarette Butts,land,4,
+STX,Altona,2,2024,mangrove,29,1155,Fishing Materials (other),ocean,3,
+STX,Altona,2,2024,mangrove,29,1155,Balloons,land,0,
+STX,Altona,2,2024,mangrove,29,1155,Fishing Line,ocean,16,
+STX,Altona,2,2024,mangrove,29,1155,Cigar Tips,land,11,
+STX,Altona,2,2024,mangrove,29,1155,"Appliances (Fridges, Washers, etc)",land,5,
+STX,Altona,2,2024,mangrove,29,1155,Fireworks,land,0,
+STX,Altona,2,2024,mangrove,29,1155,Six Pack Holders,land,0,
+STX,Altona,2,2024,mangrove,29,1155,Syringes,land,1,
+STX,Altona,2,2024,mangrove,29,1155,Tampons/Tampon Applicators,land,3,
+STX,Altona,2,2024,mangrove,29,1155,Metal Pieces,land,1,
+STX,Altona,2,2024,mangrove,29,1155,Fishing Materials (other),ocean,1,
+STX,Altona,2,2024,mangrove,29,1155,Toys,land,11,
+STX,Altona,2,2024,mangrove,29,1155,Personal Hygine,land,1,
+STX,Altona,2,2024,mangrove,29,1155,Shoes,land,18,
+STX,Altona,2,2024,mangrove,29,1155,Metal Pieces,land,22,
+STX,Altona,2,2024,mangrove,29,1155,Metal Pieces,land,1,
+STX,Altona,2,2024,mangrove,29,1155,Construction Materials,land,3,
+STX,Altona,2,2024,mangrove,29,1155,Toys,land,3,
+STX,Altona,2,2024,mangrove,29,1155,"Paper (Bags, Pieces)",land,1,
+STX,Altona,2,2024,mangrove,29,1155,Foam Pieces,land,1,
+STX,Altona,2,2024,mangrove,29,1155,Clothes,land,54,
+STX,Altona,2,2024,mangrove,29,1155,Syringes,land,1,
+STX,Altona,2,2024,mangrove,29,1155,Plastic Pieces,land,1,
+STX,Altona,2,2024,mangrove,29,1155,Plastic Pieces,land,1,
+STX,Altona,2,2024,mangrove,29,1155,Construction Materials,land,1,
+STX,Altona,2,2024,mangrove,29,1155,Toys,land,1,
+STX,Altona,2,2024,mangrove,29,1155,"Paper (Bags, Pieces)",land,6,
+STX,Altona,2,2024,mangrove,29,1155,Toys,land,1,
+STX,Altona,2,2024,mangrove,29,1155,Glass Pieces,land,1,
+STX,Altona,2,2024,mangrove,29,1155,"Paper (Bags, Pieces)",land,4,
+STX,Altona,2,2024,mangrove,29,1155,Construction Materials,land,8,
+STX,Altona,2,2024,mangrove,29,1155,Clothes,land,1,
+STX,Altona,2,2024,mangrove,29,1155,Clothes,land,1,
+STX,Altona,2,2024,mangrove,29,1155,Fishing Materials (other),ocean,1,
+STX,Altona,2,2024,mangrove,29,1155,Metal Pieces,land,1,
+STX,Altona,2,2024,mangrove,29,1155,Construction Materials,land,2,
+STX,Altona,2,2024,mangrove,29,1155,Clothes,land,1,
+STX,Altona,2,2024,mangrove,29,1155,Metal Pieces,land,2,
+STX,Altona,2,2024,mangrove,29,1155,"Paper (Bags, Pieces)",land,1,
+STX,Altona,2,2024,mangrove,29,1155,Construction Materials,land,2,
+STX,Altona,2,2024,mangrove,29,1155,Foam Pieces,land,18,
+STX,Altona,2,2024,mangrove,29,1155,Glass Pieces,land,153,
+STX,Altona,2,2024,mangrove,29,1155,Plastic Pieces ,land,139,
+STX,Altona,2,2024,mangrove,29,1155,Foam Pieces,land,51,
+STX,Altona,2,2024,mangrove,29,1155,Glass Pieces,land,141,
+STX,Altona,2,2024,mangrove,29,1155,Plastic Pieces,land,289,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Plastic Beverage Bottles,land,286,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Glass Beverage Bottles,land,193,
+STJ,Coral Bay,3,2024,mangrove,55,2602,"Food Wrappers (candy, chips, etc.)",land,139,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Metal Beverage Cans,land,139,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Caps (Metal & Plastic Combined),land,102,
+STJ,Coral Bay,3,2024,mangrove,55,2602,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,91,
+STJ,Coral Bay,3,2024,mangrove,55,2602,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,54,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Plastic Bags (other),land,134,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Other Non-Food Wrappers & Packaging,land,82,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Construction Materials,land,152,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Plastic Bags (grocery),land,104,
+STJ,Coral Bay,3,2024,mangrove,55,2602,"Foam Food Containers/Utinsels (plates, cups, lids, etc.)",land,7,
+STJ,Coral Bay,3,2024,mangrove,55,2602,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,17,
+STJ,Coral Bay,3,2024,mangrove,55,2602,"Foam Food Containers/Utinsels (plates, cups, lids, etc.)",land,18,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Caps (Metal & Plastic Combined),land,37,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Straws,land,9,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Tires,land,14,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Lighters,land,31,
+STJ,Coral Bay,3,2024,mangrove,55,2602,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,64,
+STJ,Coral Bay,3,2024,mangrove,55,2602,"Paper (Bags, Pieces)",land,13,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Plastic Bottles (non-drinking),land,97,
+STJ,Coral Bay,3,2024,mangrove,55,2602,"Paper Food Containers/Utinsels (plates, cups, lids, etc.)",land,8,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Other Non-Food Wrappers & Packaging,land,29,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Condoms,land,1,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Fishing Line,ocean,87,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Cigar Tips,land,1,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Diapers,land,1,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Buoys/Floats/Boat parts,ocean,31,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Cigarette Butts,land,8,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Fishing Materials (other),ocean,16,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Balloons,land,0,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Fishing Line,ocean,23,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Cigar Tips,land,1,
+STJ,Coral Bay,3,2024,mangrove,55,2602,"Appliances (Fridges, Washers, etc)",land,12,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Fireworks,land,0,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Six Pack Holders,land,3,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Syringes,land,1,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Tampons/Tampon Applicators,land,1,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Foam Pieces,land,49,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Glass Pieces,land,145,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Plastic Pieces ,land,189,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Foam Pieces,land,36,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Glass Pieces,land,7,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Plastic Pieces,land,220,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Metal Pieces,land,51,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Metal Pieces,land,1,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Shoes,land,26,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Buoys/Floats/Boat parts,ocean,16,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Fishing Materials (other),ocean,15,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Clothes,land,8,
+STJ,Coral Bay,3,2024,mangrove,55,2602,"Paper (Bags, Pieces)",land,13,
+STJ,Coral Bay,3,2024,mangrove,55,2602,Toys,land,7,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Plastic Beverage Bottles,land,1785,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Glass Beverage Bottles,land,166,
+STT,Vessup Bay,4,2024,mangrove,48,5755,"Food Wrappers (candy, chips, etc.)",land,197,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Metal Beverage Cans,land,203,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Caps (Metal & Plastic Combined),land,272,
+STT,Vessup Bay,4,2024,mangrove,48,5755,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,203,
+STT,Vessup Bay,4,2024,mangrove,48,5755,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,94,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Plastic Bags (other),land,153,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Other Non-Food Wrappers & Packaging,land,101,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Construction Materials,land,120,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Plastic Bags (grocery),land,60,
+STT,Vessup Bay,4,2024,mangrove,48,5755,"Foam Food Containers/Utinsels (plates, cups, lids, etc.)",land,77,
+STT,Vessup Bay,4,2024,mangrove,48,5755,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,52,
+STT,Vessup Bay,4,2024,mangrove,48,5755,"Foam Food Containers/Utinsels (plates, cups, lids, etc.)",land,33,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Caps (Metal & Plastic Combined),land,26,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Straws,land,52,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Tires,land,10,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Lighters,land,57,
+STT,Vessup Bay,4,2024,mangrove,48,5755,"Plastic Food Containers/Utinsels (plates, cups, lids, etc.)",land,70,
+STT,Vessup Bay,4,2024,mangrove,48,5755,"Paper (Bags, Pieces)",land,14,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Plastic Bottles (non-drinking),land,174,
+STT,Vessup Bay,4,2024,mangrove,48,5755,"Paper Food Containers/Utinsels (plates, cups, lids, etc.)",land,23,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Other Non-Food Wrappers & Packaging,land,12,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Condoms,land,2,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Fishing Line,land,361,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Cigar Tips,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Diapers,land,0,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Buoys/Floats/Boat parts,land,52,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Cigarette Butts,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Fishing Materials (other),land,15,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Balloons,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Fishing Line,land,10,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Cigar Tips,land,6,
+STT,Vessup Bay,4,2024,mangrove,48,5755,"Appliances (Fridges, Washers, etc)",land,2,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Fireworks,land,0,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Six Pack Holders,land,4,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Syringes,land,2,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Tampons/Tampon Applicators,land,7,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Foam Pieces,land,55,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Glass Pieces,land,16,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Plastic Pieces ,land,164,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Foam Pieces,land,204,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Glass Pieces,land,23,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Plastic Pieces,land,626,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Clothes,land,32,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Clothes,land,9,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Shoes,land,58,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Shoes,land,8,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Plastic Pieces,land,4,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Construction Material,land,8,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Metal Pieces,land,4,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Metal Pieces,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Toys,land,11,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Personal Hygine,land,2,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Toys,land,5,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Toys,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Plastic Pieces,land,13,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Metal Pieces,land,13,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Buoys/Floats/Boat parts,land,16,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Toys,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Plastic Pieces,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,"Paper (Bags, Pieces)",land,2,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Plastic Pieces,land,4,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Metal Pieces,land,3,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Plastic Pieces,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Metal Pieces,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Plastic Pieces,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,"Paper (Bags, Pieces)",land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Metal Pieces,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Plastic Pieces,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Metal Pieces,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Construction Material,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Construction Material,land,3,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Construction Material,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Construction Material,land,4,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Toys,land,3,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Buoys/Floats/Boat parts,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Metal Pieces,land,4,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Plastic Bottles (non-drinking),land,7,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Clother,land,3,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Personal Hygine,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Buoys/Floats/Boat parts,land,2,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Construction Material,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Construction Material,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Plastic Pieces,land,8,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Construction Material,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Construction Material,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Toys,land,1,
+STT,Vessup Bay,4,2024,mangrove,48,5755,Buoys/Floats/Boat parts,land,1,

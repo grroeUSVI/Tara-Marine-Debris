@@ -1,0 +1,103 @@
+---
+title: "Tara Marine Debris 9/3/25"
+output: html_document
+date: "2025-09-03"
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r input data}
+
+library(readr)
+library(tidyverse)
+mangrovedebris <- read_csv("Marine Debris Mangrove Data - MangroveRawData.csv")#change this file path copy from your computer
+
+#two names for vessup bay in the site column, changing to both the same
+mangrovedebris<-mangrovedebris%>%
+  mutate(`site`=recode(`site`,
+    "Vessup Bay"= "Vessup"))
+
+```
+
+
+weight over time
+
+```{r}
+STEER<-mangrovedebris%>%
+  filter(site=="STEER")#2 years, 2018 2019
+
+Vessup<-mangrovedebris%>%
+  filter(site=="Vessup")
+#2021 2022 2023 2024
+  
+  
+#Altona 2023, 2024
+#Coral Bay 2021, 2022, 2023, 2024
+
+
+poundsperyear<-mangrovedebris%>%
+  mutate("lbspp"=lbs/people)%>%
+  filter(item=="Plastic Beverage Bottles")
+
+weightplot<-poundsperyear%>%
+  ggplot(aes(x=year, y=lbspp))+
+  geom_col(position = "dodge")+
+  facet_wrap(~ site)+
+  ggtitle("Weight per Person over time")
+
+weightplot
+
+```
+
+items over time
+
+```{r}
+#this is looking to see where we have lines with items measured more than once in a year. Check this to make sure nothing you are looking at is repeated
+itemcheck<-mangrovedebris%>%
+  group_by(site, year, item)%>%
+  summarise(n=n())%>%
+  filter(n>1)
+
+
+itemsperperson<-mangrovedebris%>%
+  mutate("itemspp"=num.of.item/people)
+
+
+
+itemplot<-itemsperperson%>%
+  filter(item=="Plastic Beverage Bottles")%>%
+  ggplot(aes(x=year, y=itemspp))+
+  geom_col(position = "dodge")+
+  facet_wrap(~ site)+
+  ggtitle("Number of Plastic Bottles per Person over time")
+
+itemplot
+
+
+```
+
+
+Hurricane Debris
+
+we want to look at the number of items that we consider hurricane type debris and see how that has changed over time
+```{r}
+#our hurricane items are
+
+unique(mangrovedebris$item)
+
+
+hurricane<-mangrovedebris%>%
+  filter(item=="Buoys/Floats/Boat parts"|item=="Construction Materials" | item=="Construction Material" )%>%
+  mutate("hurricanepp"=num.of.item/people)%>%
+  group_by(site, year)%>%
+  summarise(totalnumberpp=sum(hurricanepp))%>%
+   ggplot(aes(x=year, y=totalnumberpp))+
+  geom_col(position = "dodge")+
+  facet_wrap(~ site)+
+  ggtitle("Hurricane Items Per Person Per Site Over Time")
+
+hurricane
+
+
+```
+
