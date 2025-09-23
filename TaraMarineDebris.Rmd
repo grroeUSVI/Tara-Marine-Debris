@@ -5,6 +5,16 @@ date: "2025-09-03"
 editor_options: 
   chunk_output_type: console
 ---
+ 
+ Making a change yay!
+ 
+ 
+```{r}
+library(usethis)
+use_git()
+use_github()
+```
+
 
 ```{r input data}
 
